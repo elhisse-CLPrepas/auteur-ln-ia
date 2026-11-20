@@ -4,7 +4,9 @@ Version 1.0.0 — 20 novembre 2026.
 
 Dépôt public : https://github.com/elhisse-CLPrepas/auteur-ln-ia
 
-Adresse prévue de publication GitHub Pages : https://elhisse-clprepas.github.io/auteur-ln-ia/ (activation et déploiement à confirmer).
+Adresse GitHub Pages : https://elhisse-clprepas.github.io/auteur-ln-ia/
+
+GitHub Pages est activé, avec HTTPS obligatoire, sur la racine de `main`. L’état de chaque déploiement est consultable dans Actions. La carte, la photo et le logo ont été conservés ; seuls les fichiers de versionnement et cette documentation ont été ajoutés.
 
 Ouvrir `index.html` dans un navigateur. La page fonctionne directement, sans installation et sans connexion pour les textes, la photo et le logo. Les liens externes nécessitent Internet. Le bouton « Imprimer la carte » ouvre l’impression du navigateur (avec possibilité d’enregistrement en PDF).
 
